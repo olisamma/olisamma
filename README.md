@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olisa
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently sharpening my knowledge of Data Analysis tools such as Excel, Power BI, Tableau, SQL and Python.
-- 💞️ I’m looking to collaborate on analysis projects to increase my knowledge, grow my portfolio and land a job.
+- 💞️ I’m looking to collaborate on analysis projects to make meaningful contributions while increasing my knowledge and growing my portfolio.
 - 📫 You can connect with me on LinkedIn: www.linkedin.com/in/olisa-ofili
 
 <!---
